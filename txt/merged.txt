@@ -1062,7 +1062,9 @@ Generic,#genre#
 [BD]民视 ==1,https://stream1.freetv.fun/cf6bf32a6c6d367270dfb66bf879e95d6ef092662254faf5b067740c200a80d9.m3u8
 [HD]民视,rtmp://f13h.mine.nu:1935/sat/tv051
 [HD]民视第一台 *wj,https://stream1.freetv.fun/8e0504674d9faec03d8991e07161615ec459faeb521fa2cc78b791b23ac1cb5e.ctv
+[BD]民视第一 *4g,https://stream1.freetv.fun/1b004db423ae5fa86e07a4f09f42c58a17651e6e410471e735f258e22e2a5536.m3u8
 [BD]民视台湾 *4g,https://stream1.freetv.fun/900d6ede19528ef303d27259ade9b4be81041469d81d5dfc6a1ab2a0e4c2e4e5.m3u8
+[HD]民视台湾台 ===1,https://stream1.freetv.fun/82879f2166da432244b68c24c0829227e571d38216436b18e4eafd9ae197bdde.m3u8
 [HD]江苏城市,https://stream1.freetv.fun/bb951e9f6447bef33a3668993d23ba5db98cfc383688b1688bdbf5a956d9a50c.ctv
 [HD]江苏卫视,https://stream1.freetv.fun/d603dff9bd97cd0af111d22f7e7559d5811119df07427c3896440285361868da.ctv
 [BD]江西卫视,https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8
@@ -1102,6 +1104,7 @@ Generic,#genre#
 [HD]翡翠台 *wj,https://stream1.freetv.fun/d2c761089841467fda14a388918c0599a662aaafb911d3c388db6566cbe0b65b.ctv
 [BD]临沂新闻综合频道,https://stream1.freetv.fun/70d9384786a5e1d8f973af3bab5643406bda0c89a7008eb6f322bb4c7ef9eb49.m3u8
 [VGA]自贡综合,https://stream1.freetv.fun/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv
+[BD]台视 *4g,https://stream1.freetv.fun/a9b78df17c632449b738c0866600befa5b90e028b7e53108b36009ed87351142.m3u8
 [SD]华视闽南 *4g,https://stream1.freetv.fun/7b12230f8eb31e61829252875652a4709efb80774639f5f1d03c9609aa898232.m3u8
 [HD]华视,rtmp://f13h.mine.nu:1935/sat/tv111
 [BD]华语电视2,https://stream1.freetv.fun/298e7d6961c0bd62835d3e9f757c24510ffc5afc285f1a5d03f195c5392f29b6.m3u8
@@ -4832,6 +4835,7 @@ TeleBielingue (720p),https://edge20.vedge.infomaniak.com/livecast/ik:telebieling
 TeleCampione,https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
 Telecanal 12 (720p) [Not 24/7],https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 Telecanal 28 (360p) [Not 24/7],https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+Telecanal (720p),http://190.110.160.210:8000/play/a07s/index.m3u8
 Teleceiba (1080p),https://astra.teleceiba.com:8443/play/a004/index.m3u8
 Telecentro (480p),https://ds.tvabierta.net/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4_output_0.m3u8?session=8z5GX4XSBmjJX2aSwnqP3G
 TeleCibao (720p) [Not 24/7],https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
@@ -6964,13 +6968,10 @@ Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 Jiangxi Public & Agriculture Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 Jihočeská televize (1080p),https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 JN19 TV2 (1080p) [Not 24/7],https://servilive.com:3224/live/jn19tv2live.m3u8
-JOAX-DTV (720p),http://vthanh.utako.moe/Nippon_TV/index.m3u8
 Jogja Istimewa TV (720p),http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 Jogja TV (720p) [Not 24/7],https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-JOIX-DTV (720p),http://luong.utako.moe/ytv/index.m3u8
 Jonack TV (360p) [Not 24/7],https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 Jordan Satellite Channel (1080p),https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-JOTX-DTV (1080p),http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 Joy Prime,http://69.64.57.208/joyprime/playlist.m3u8
 JTV (720p) [Not 24/7],http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 Junco Tv (720p),https://mediacp.us:8081/juncotv/index.m3u8
@@ -8326,7 +8327,6 @@ GEM Mifa,https://ca-rt.onetv.app/gemmifa/index-0.m3u8
 GEM Mifa Plus,https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
 Gigant FM (720p),https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 Good-Sound (720p),http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
-GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 Ground TV,https://panel.freedomflixtv.org:3764/hybrid/play.m3u8
 GugakTV 국악방송 (1080p),https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 Guyana Music TV (1080p),https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
